@@ -80,3 +80,5 @@ Estudante de 18 anos recém-formado no curso de Informática do CEFET-MG, atualm
     <img src="https://streak-stats.demolab.com?user=joaovitorf4&theme=midnight-purple&hide_border=false&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D"/>
     </picture>
 </p>
+
+![snake gif](https://github.com/joaovitorfod4/joaovitorfod4/blob/output/github-contribution-grid-snake.svg)
