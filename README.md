@@ -81,4 +81,4 @@ Estudante de 18 anos recém-formado no curso de Informática do CEFET-MG, atualm
     </picture>
 </p>
 
-![snake gif](https://github.com/joaovitorfod4/joaovitorfod4/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joaovitorf4/joaovitorf4/blob/output/github-contribution-grid-snake.svg)
