@@ -23,8 +23,10 @@ Estudante de 18 anos recém-formado no curso de Informática do CEFET-MG, atualm
          <img alt="Gmail" title="joaovitorfod5@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>    
    </a> 
    </p>
+   
+   
      
-    
+<img align="right" alt="Perfil" width="100px" src="https://avatars.githubusercontent.com/u/70524677?v=4" /> 
 ---
 
 ### :computer: Linguagens de programação
@@ -39,7 +41,6 @@ Estudante de 18 anos recém-formado no curso de Informática do CEFET-MG, atualm
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
 
 <br />
 
