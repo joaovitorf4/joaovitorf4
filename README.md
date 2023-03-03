@@ -67,10 +67,10 @@ Estudante de 18 anos recém-formado no curso de Informática do CEFET-MG, atualm
 
 </details>
 
-#
+<!-- #
    
 #### 👾 Streak Stats | Typing SVG Custom | Icon Badges 
->https://demolab.com   
+>https://demolab.com    -->
 
 
 
