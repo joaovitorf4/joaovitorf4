@@ -74,11 +74,11 @@ Estudante de 18 anos recém-formado no curso de Informática do CEFET-MG, atualm
 
 
 
-<p align="center">
+<!-- <p align="center">
     <picture>
     <source media="(prefers-color-scheme: midnight-purple)" srcset="https://streak-stats.demolab.com?user=joaovitorf4&theme=midnight-purple&date_format=j%20M%5B%20Y%5D" />
     <img src="https://streak-stats.demolab.com?user=joaovitorf4&theme=midnight-purple&hide_border=false&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D"/>
     </picture>
-</p>
+</p> -->
 
 <!-- ![snake gif](https://github.com/joaovitorf4/joaovitorf4/blob/output/github-contribution-grid-snake.svg) -->
