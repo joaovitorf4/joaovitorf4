@@ -5,7 +5,7 @@
 **`Técnico em Informática pelo CEFET-MG`**
 **`Futuro Desenvolvedor de Software`**
 
-Estudante de 18 anos recém-formado no curso de Informática do CEFET-MG, atualmente estudando Python.
+Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, atualmente estudando Python.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/joão-vitor-lopes-fagundes-2b0171262/">
