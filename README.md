@@ -61,12 +61,11 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, atualm
 
 <details>
  <summary><h3>👨‍💻 Um pouco sobre mim...</h3></summary>
-&ensp; -- <br />
-&ensp; -- <br /> 
-&ensp; -- <br />
 
 </details>
-
+<p>Meu nome é João Vitor Lopes Fagundes , tenho 19 anos, e atuo como Desenvolvedor Freelancer.</p>
+<p>Atuo tanto com Front End e Back End, com mais habilidade no Front. Utilizo principalment</p>
+<p>React.js, JavaScript e Pyhton.</p>
 <!-- #
    
 #### 👾 Streak Stats | Typing SVG Custom | Icon Badges 
