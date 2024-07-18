@@ -16,7 +16,7 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, atualm
    <a href="#" target="_blank">
          <img alt="Discord" title="joaovitorfod4#8656" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>    
    </a> 
-   <a href="#" target="_blank">
+   <a href="mailto:joaovitorfod5@gmail.com" target="_blank">
          <img alt="Gmail" title="joaovitorfod5@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>    
    </a> 
    </p>
