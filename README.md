@@ -3,11 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&pause=1000&color=F7F7F7&vCenter=true&width=435&height=25&lines=%C3%80+procura+de+um+est%C3%A1gio..." alt="Typing SVG" /></a>
 
 **`Técnico em Informática pelo CEFET-MG`**
-**`Futuro Desenvolvedor de Software`**
+**`Desenvolvedor de Software`**
 
 Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, atualmente estudando Python.
 
-   <p align="left">
+   <div align="left">
       <a href="https://joaovitorf4.github.io/portfolio/index.html" target="_blank">
          <img alt="Linkedin" title="Meu perfil no Linkedin" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
       </a>
@@ -23,7 +23,7 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, atualm
       <a href="mailto:joaovitorfod5@gmail.com" target="_blank">
             <img alt="Gmail" title="joaovitorfod5@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>    
       </a> 
-   </p>
+   </div>
    
    
      
