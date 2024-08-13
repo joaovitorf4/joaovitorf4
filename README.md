@@ -1,11 +1,11 @@
 # 🔱: João Vitor
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&pause=1000&color=F7F7F7&vCenter=true&width=435&height=25&lines=%C3%80+procura+de+um+est%C3%A1gio..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6900F2&width=435&lines=Estagi%C3%A1rio+e+Freelancer" alt="Typing SVG" /></a>
 
 **`Técnico em Informática pelo CEFET-MG`**
 **`Desenvolvedor de Software`**
 
-Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, atualmente estudando Python.
+Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, atuo autualmente como Freelancer.
 
    <div align="left">
       <a href="https://joaovitorf4.github.io/portfolio/index.html" target="_blank">
